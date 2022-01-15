@@ -51,7 +51,7 @@ run and compile LibreOffice, also used by the TDF builds:
 * Emscripten / WASM:
     * Runtime: a browser with SharedMemory support (threads + atomics)
     * Build: Qt 5.15 with Qt supported Emscripten 1.39.8
-    * See README.wasm
+    * See static/README.wasm.md
 
 If you want to use Clang with the LibreOffice compiler plugins, the minimal
 version of Clang is 5.0.2. Since Xcode doesn't provide the compiler plugin
